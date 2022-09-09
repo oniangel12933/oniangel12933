@@ -1,62 +1,162 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Flutter & Native iOS & React Native
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=oniangel12933.oniangel12933) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/oniangel12933?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/oniangel12933?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/oniangel12933/fluttercapsule?style=social"> 
+
+[![Nominate @oniangel12933 as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@oniangel12933-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
+
 </div>
 
----
+<div align="center">
+<a href="https://www.usama.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://github.com/oniangel12933/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
+<a href="https://www.youtube.com/oniangel12933?sub_confirmation=1">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
+<a href="https://www.linkedin.com/in/oniangel12933Official/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://www.facebook.com/oniangel12933Official/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
+<a href="https://www.twitter.com/oniangel12933Pro/">
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/oniangel12933Official/">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
+<a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
+<img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
+<a href="https://ask.fm/oniangel12933official">
+<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=flat-square&logo=askfm&logoColor=ffffff"></a>
+<a href="mailto:moniyu719@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
+<a href="https://m.me/oniangel12933Official/">
+<img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
+<a href="https://wa.me/923100007773?text=%23Github">
+<img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
+<a href="https://www.buymeacoffee.com/oniangel12933">
+<img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
+</div>
+
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+
+<img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
+
+> I’m an open-minded person seeking a position in the field of
+mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
+
+- 😄 Pronouns me as `/aus-tin/`
+- 📱 Mobile Developer
+- 🎓 Graduate of [The University of Texas at Austin](https://www.utexas.edu/)
+
+<br><br><br><br><br><br>
+
+<br><h2 align="center"> Tools & Technology 🛠</h2>
+
+<div align="center">
+<!-- <p align="center"></p> -->
+<img src="https://img.shields.io/badge/Flutter-4_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-4_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Native_iOS-7_years-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-4_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Agile-4_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-3_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-3_years-FFD43B?style=flat-square&logo=appstore&logoColor=black"/>
+<img src="https://img.shields.io/badge/firebase-5_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
+<img src="https://img.shields.io/badge/Git-5_years-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-3_years-00aeff?style=flat-square&logo=microsoft%20azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-3_years-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-4_years-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<br><br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniangel12933&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div>
 
 
-I am a mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is experienced mobile application developer with Flutter, React Native and native iOS in android and iOS development and 7+ years experience growing revenue for a mobile development for almost all the major industries.
+<br><h2 align="center"> Education 🎓</h2>
+
+### THE UNIVERSITY OF TEXAS AT AUSTIN `2005 - 2010`
+> BACHELOR
+
+Graduated from faculty of Computer Science and Technology,
+and gain the Bachelor’s Degree of Computer Science.
+
+<br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
+
+### MOBILE DEVELOPER `JUN'20...`
+> TREFLA
+
+As a main developper, I built android and iOS applications with Flutter and lead other developers.
+- Post and comment system
+- Real-time chat and push notification
+- Custom profiling
+- Social service integration including youtube
+
+### MOBILE DEVELOPER `FEB'20 - MAR'20`
+> FIRST CHESAPEAKE
+
+In this position, I built and contributed to the development of several mobile
+applications, including Expin and PodNetwork, etc.
+- Flutter, React Native, Swift, Java, Node.js MongoDB, AWS, BLE, php, Firebase
+- Real-time position track and notification
+- Several payment gates integration including paypal, apple pay, google pay, etc.
+- Real-time communication using websocket
+- Backend development using node.js and mongoDB
+
+### MOBILE DEVELOPER `APR'11 - JAN'17`
+> SELF-EMPLOYED
+
+I built several applications and upgraded my skills as a mobile developer.
+- React Native and native iOS
+- PHP, MySQL, Node.js, MongoDB
+- RestApi, GraphQL, WebSocket
+- In-app payment and chat
+- Social integration, geolocation, push notification
+- Firebase, AWS, Azure
 
 
-<!-- --- -->
+<br><h2 align="center"> Projects 🚀</h2>
 
-<!-- ### :hammer_and_wrench: Languages and Tools : -->
-<!-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div> -->
+### Trefla
+> Trefla is popular app to connect with around users. A user can create posts for date and SOS, etc. Users can connect and chat with around users. Also, user can customize his profile page and play youtube or other video without ads. Using match function, users can enjoy together.
+> <img align="center" alt="App" src="https://i.imgur.com/Yegf1ru.png" height="auto" />
+> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br>
+[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/cn/app/trefla/id1550695660?l=en) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US)
 
----
+<br>
 
-<!-- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### Expin
+> Expin is for booking services. User can search and book hotels, travel places, etc
+> <img align="center" alt="App" src="https://i.imgur.com/Qxf3sgr.png" height="auto" />
+> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br>
+[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/ph/app/expin-influencer-marketing/id1484450218) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.expinapp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
----
+### PodNetwork
+>  PodNetwork support to explore and discover, and connecct with local peoples. Also PodNetwork support pod map and discover people, and events and opportunities.
+> <img align="center" alt="App" src="https://i.imgur.com/bvwDWH1.png" height="auto" />
+> Technologies: `React Native`, `Java`, `Swift`, `node.js`, `google map`, `rest api`, `real time chat`, `firebase`, etc <br>
+[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/pod-network/id1481372679) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=io.pod.app)
 
-### :writing_hand: Blog Posts : -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br>
+
+### TododeUsa
+>   TododeUsa is for shopping and tracking packages.
+> <img align="center" alt="App" src="https://i.imgur.com/P0VyX5r.png" height="auto" />
+> Technologies: `React Navtive`, `Java`, `Swift`, `php`, `google map`, `rest api`, `push notification firebase`, etc., etc <br>
+[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/tododeusa/id1475409048?l=es) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.tododeusa)
+
+<br>
+
+<br><h2 align="center"> GitHub Statistics 📈 </h2>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oniangel12933&theme=dark&hide_title=true&include_all_commits=true"/>
+</div><br>
+<div align="center">  
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=oniangel12933"> <br><br> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=oniangel12933&margin-w=15&margin-h=15" />
+</div>
+<br>
+
+<p align="center">Open Source Contributor from <b>Texas, Austin</p>
+<div align="center"><br>
+<p><a href="https://www.buymeacoffee.com/oniangel12933"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+</div>
