@@ -64,7 +64,7 @@ and gain the Bachelor’s Degree of Computer Science.
 
 <br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
 
-### MOBILE DEVELOPER `JUN'20...`
+### MOBILE DEVELOPER `JUN'20 - `
 > TREFLA
 
 As a main developper, I built android and iOS applications with Flutter and lead other developers.
@@ -100,32 +100,42 @@ I built several applications and upgraded my skills as a mobile developer.
 
 ### Trefla
 > Trefla is popular app to connect with around users. A user can create posts for date and SOS, etc. Users can connect and chat with around users. Also, user can customize his profile page and play youtube or other video without ads. Using match function, users can enjoy together.
+> <br><br>
 > <img align="center" alt="App" src="https://i.imgur.com/Yegf1ru.png" height="auto" />
-> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br>
+> <br><br>
+> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/cn/app/trefla/id1550695660?l=en) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US)
 
 <br>
 
 ### Expin
 > Expin is for booking services. User can search and book hotels, travel places, etc
+> <br><br>
 > <img align="center" alt="App" src="https://i.imgur.com/Qxf3sgr.png" height="auto" />
-> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br>
+> <br><br>
+> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/ph/app/expin-influencer-marketing/id1484450218) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.expinapp)
 
 <br>
 
 ### PodNetwork
 >  PodNetwork support to explore and discover, and connecct with local peoples. Also PodNetwork support pod map and discover people, and events and opportunities.
+> <br><br>
 > <img align="center" alt="App" src="https://i.imgur.com/bvwDWH1.png" height="auto" />
-> Technologies: `React Native`, `Java`, `Swift`, `node.js`, `google map`, `rest api`, `real time chat`, `firebase`, etc <br>
+> <br><br>
+> Technologies: `React Native`, `Java`, `Swift`, `node.js`, `google map`, `rest api`, `real time chat`, `firebase`, etc 
+<br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/pod-network/id1481372679) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=io.pod.app)
 
 <br>
 
 ### TododeUsa
 >   TododeUsa is for shopping and tracking packages.
+> <br><br>
 > <img align="center" alt="App" src="https://i.imgur.com/P0VyX5r.png" height="auto" />
-> Technologies: `React Navtive`, `Java`, `Swift`, `php`, `google map`, `rest api`, `push notification firebase`, etc., etc <br>
+> <br><br>
+> Technologies: `React Navtive`, `Java`, `Swift`, `php`, `google map`, `rest api`, `push notification firebase`, etc., etc
+<br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/tododeusa/id1475409048?l=es) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.tododeusa)
 
 <br>
