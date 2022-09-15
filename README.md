@@ -7,13 +7,11 @@
 </div>
 
 <div align="center">
-<a href="http://profile.prepstaapps.com/#/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/oniangel12933/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/xin-ma-42677a229/">
+<a href="https://www.linkedin.com/in/austin-oh-1b8874121/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="mailto:onianagel129@gmail.com">
+<a href="mailto:moniyu719@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="https://wa.me/15714882365?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
@@ -28,9 +26,9 @@
 > I’m an open-minded person seeking a position in the field of
 mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
 
-- 😄 Pronouns me as `/xin-ma/`
+- 😄 Pronouns me as `/aus-tin/`
 - 📱 Mobile Developer (Flutter & React Native & Native iOS)
-- 🎓 Graduate of [NorthernEast University, China]
+- 🎓 Graduate of [The University of Texas at Austin](https://www.utexas.edu/)
 
 <br><br><br><br>
 
@@ -58,7 +56,7 @@ mobile development, where I can apply my knowledge and skills for continuous imp
 
 <br><h2 align="center"> Education 🎓</h2>
 
-### NORTHERNEAST UNIVERSITY, CHINA `2010 - 2015`
+### THE UNIVERSITY OF TEXAS AT AUSTIN `2005 - 2010`
 > BACHELOR
 
 Graduated from faculty of Computer Science and Technology,
@@ -75,7 +73,18 @@ As a main developper, I built android and iOS applications with Flutter and lead
 - Custom profiling
 - Social service integration including youtube
 
-### MOBILE DEVELOPER `AUG'14 - JUN'20`
+### MOBILE DEVELOPER `FEB'20 - MAR'20`
+> FIRST CHESAPEAKE
+
+In this position, I built and contributed to the development of several mobile
+applications, including Expin and PodNetwork, etc.
+- Flutter, React Native, Swift, Java, Node.js MongoDB, AWS, BLE, php, Firebase
+- Real-time position track and notification
+- Several payment gates integration including paypal, apple pay, google pay, etc.
+- Real-time communication using websocket
+- Backend development using node.js and mongoDB
+
+### MOBILE DEVELOPER `APR'11 - JAN'17`
 > SELF-EMPLOYED
 
 I built several applications and upgraded my skills as a mobile developer.
@@ -142,7 +151,7 @@ I built several applications and upgraded my skills as a mobile developer.
 </div>
 <br>
 
-<p align="center">Open Source Contributor from <b>China</p>
+<p align="center">Open Source Contributor from <b>Texas, Austin</p>
 <div align="center"><br>
 <p><a href="https://www.buymeacoffee.com/oniangel12933"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
 </div>
