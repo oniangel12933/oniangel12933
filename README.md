@@ -26,7 +26,6 @@
 > I’m an open-minded person seeking a position in the field of
 mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
 
-- 😄 Pronouns me as `/aus-tin/`
 - 📱 Mobile Developer (Flutter & React Native & Native iOS)
 - 🎓 Graduate of [The University of Texas at Austin](https://www.utexas.edu/)
 
