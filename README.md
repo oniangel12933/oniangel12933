@@ -151,7 +151,7 @@ I built several applications and upgraded my skills as a mobile developer.
 </div>
 <br>
 
-<p align="center">Open Source Contributor from <b>Texas, Austin</p>
+<p align="center">Open Source Contributor</p>
 <div align="center"><br>
 <p><a href="https://www.buymeacoffee.com/oniangel12933"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
 </div>
