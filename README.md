@@ -35,16 +35,16 @@ mobile development, where I can apply my knowledge and skills for continuous imp
 
 <div align="center">
 <!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-4_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-4_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Native_iOS-7_years-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-7_years-000000?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-3_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-5_years-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-5_years-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Native_iOS-8_years-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-8_years-000000?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-5_years-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Agile-4_years-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-3_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-4_years-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-3_years-FFD43B?style=flat-square&logo=appstore&logoColor=black"/>
-<img src="https://img.shields.io/badge/firebase-5_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
-<img src="https://img.shields.io/badge/Git-5_years-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-7_years-ffca28?style=flat-square&logo=firebase&logoColor=red" />
+<img src="https://img.shields.io/badge/Git-7_years-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-3_years-00aeff?style=flat-square&logo=microsoft%20azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-3_years-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-4_years-E10098?style=flat-square&logo=graphql&logoColor=white" />
