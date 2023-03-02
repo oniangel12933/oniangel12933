@@ -100,7 +100,7 @@ I built several applications and upgraded my skills as a mobile developer.
 ### Trefla
 > Trefla is popular app to connect with around users. A user can create posts for date and SOS, etc. Users can connect and chat with around users. Also, user can customize his profile page and play youtube or other video without ads. Using match function, users can enjoy together.
 > <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/Yegf1ru.png" height="auto" />
+> <img align="center" alt="App" src="https://i.ibb.co/W05D9HR/screenshot.png" height="auto" />
 > <br><br>
 > Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/cn/app/trefla/id1550695660?l=en) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US)
