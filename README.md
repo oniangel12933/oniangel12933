@@ -72,7 +72,7 @@ In this position, I've contributed to add the chart system and other functions.
 - Real-time communication using websocket
 - Backend development using node.js and mongoDB
 
-### MOBILE DEVELOPER `APR'11 - JAN'17`
+### MOBILE DEVELOPER `AUG'2014 - JUN'2020`
 > SELF-EMPLOYED
 
 I built several applications and upgraded my skills as a mobile developer.
@@ -100,7 +100,7 @@ I built several applications and upgraded my skills as a mobile developer.
 > Involio allows users to share their capital allocation, investments, trades, and strategies with their following.
 
 > <br><br>
-> <img align="center" alt="App" src="https://i.imgur.com/Qxf3sgr.png" height="auto" />
+> <img align="center" alt="App" src="https://i.ibb.co/5RKWtcL/Screenshot-2023-03-26-at-1-59-50-PM.png" height="auto" />
 > <br><br>
 > Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/involio/id1601301148?ign-itscg=30200&ign-itsct=apps_box_badge) 
