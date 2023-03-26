@@ -53,7 +53,7 @@
 
 <br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
 
-### MOBILE DEVELOPER `JUN'20...`
+### MOBILE DEVELOPER `JUN'2020...`
 > TREFLA
 
 As a main developper, I built android and iOS applications with Flutter and lead other developers.
@@ -62,7 +62,7 @@ As a main developper, I built android and iOS applications with Flutter and lead
 - Custom profiling
 - Social service integration including youtube
 
-### MOBILE DEVELOPER `JAN'20 - APRIL'20`
+### MOBILE DEVELOPER `JAN'2022 - APRIL'2022`
 > Involio
 
 In this position, I've contributed to add the chart system and other functions.
@@ -93,6 +93,17 @@ I built several applications and upgraded my skills as a mobile developer.
 > <br><br>
 > Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
 [![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/cn/app/trefla/id1550695660?l=en) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=com.mobile.trefla&hl=en_US&gl=US)
+
+<br>
+
+### Involio
+> Involio allows users to share their capital allocation, investments, trades, and strategies with their following.
+
+> <br><br>
+> <img align="center" alt="App" src="https://i.imgur.com/Qxf3sgr.png" height="auto" />
+> <br><br>
+> Technologies: `Flutter`, `Java`, `Swift`, `node.js`, `rest api`, `inapp chat`, `geolocation`, `Youtube embed`, `Firebase`, `social integration`, `socket`, etc <br><br>
+[![Get it on App Store](https://img.shields.io/badge/App_Store-211F1F?logo=apple&logoColor=ffffff)](https://apps.apple.com/us/app/involio/id1601301148?ign-itscg=30200&ign-itsct=apps_box_badge) 
 
 <br>
 
