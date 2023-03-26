@@ -27,7 +27,6 @@
 mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
 
 - 📱 Mobile Developer (Flutter & React Native & Native iOS)
-- 🎓 Graduate of [The University of Texas at Austin](https://www.utexas.edu/)
 
 <br><br><br><br>
 
