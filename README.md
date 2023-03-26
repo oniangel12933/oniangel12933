@@ -23,8 +23,7 @@
 
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
-> I’m an open-minded person seeking a position in the field of
-mobile development, where I can apply my knowledge and skills for continuous improvement. I really want to work and learn. Ready to any proposal!
+> I specialized in Full-stack mobile & Web development. I enjoy working with React Native, Flutter, React Angular, Node, MySQL, MongoDB, Firebase, and AWS. My greatest strengths are professional- ism, prompt communication, and adaptability.
 
 - 📱 Mobile Developer (Flutter & React Native & Native iOS)
 
