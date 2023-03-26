@@ -51,14 +51,6 @@
 </div>
 
 
-<br><h2 align="center"> Education 🎓</h2>
-
-### THE UNIVERSITY OF TEXAS AT AUSTIN `2005 - 2010`
-> BACHELOR
-
-Graduated from faculty of Computer Science and Technology,
-and gain the Bachelor’s Degree of Computer Science.
-
 <br><h2 align="center"> Work Experience 🧑🏻‍💻</h2>
 
 ### MOBILE DEVELOPER `JUN'20...`
@@ -70,12 +62,11 @@ As a main developper, I built android and iOS applications with Flutter and lead
 - Custom profiling
 - Social service integration including youtube
 
-### MOBILE DEVELOPER `FEB'20 - MAR'20`
-> FIRST CHESAPEAKE
+### MOBILE DEVELOPER `JAN'20 - APRIL'20`
+> Involio
 
-In this position, I built and contributed to the development of several mobile
-applications, including Expin and PodNetwork, etc.
-- Flutter, React Native, Swift, Java, Node.js MongoDB, AWS, BLE, php, Firebase
+In this position, I've contributed to add the chart system and other functions.
+- Flutter, Swift, Java, Node.js MongoDB, AWS, BLE, php, Firebase
 - Real-time position track and notification
 - Several payment gates integration including paypal, apple pay, google pay, etc.
 - Real-time communication using websocket
